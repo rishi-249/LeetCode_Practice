@@ -4,9 +4,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/rishi-249/LeetCode_Practice/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/rishi-249/LeetCode_Practice/tree/master/0260-single-number-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/rishi-249/LeetCode_Practice/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/rishi-249/LeetCode_Practice/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
