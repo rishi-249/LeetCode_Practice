@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/rishi-249/LeetCode_Practice/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/rishi-249/LeetCode_Practice/tree/master/0260-single-number-iii) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/rishi-249/LeetCode_Practice/tree/master/1768-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/rishi-249/LeetCode_Practice/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
