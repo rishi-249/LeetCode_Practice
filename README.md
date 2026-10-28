@@ -18,6 +18,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/rishi-249/LeetCode_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [1678-goal-parser-interpretation](https://github.com/rishi-249/LeetCode_Practice/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/rishi-249/LeetCode_Practice/tree/master/1768-merge-strings-alternately) |
+## Hash Table
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/rishi-249/LeetCode_Practice/tree/master/0451-sort-characters-by-frequency) |
+## Sorting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/rishi-249/LeetCode_Practice/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/rishi-249/LeetCode_Practice/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/rishi-249/LeetCode_Practice/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/rishi-249/LeetCode_Practice/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
