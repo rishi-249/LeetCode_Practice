@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rishi-249/LeetCode_Practice/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rishi-249/LeetCode_Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0137-single-number-ii](https://github.com/rishi-249/LeetCode_Practice/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/rishi-249/LeetCode_Practice/tree/master/0260-single-number-iii) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rishi-249/LeetCode_Practice/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/rishi-249/LeetCode_Practice/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rishi-249/LeetCode_Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [1768-merge-strings-alternately](https://github.com/rishi-249/LeetCode_Practice/tree/master/1768-merge-strings-alternately) |
 ## String
@@ -49,8 +51,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rishi-249/LeetCode_Practice/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/rishi-249/LeetCode_Practice/tree/master/0042-trapping-rain-water) |
 ## Manacher
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rishi-249/LeetCode_Practice/tree/master/0005-longest-palindromic-substring) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rishi-249/LeetCode_Practice/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rishi-249/LeetCode_Practice/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
