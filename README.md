@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rishi-249/LeetCode_Practice/tree/master/0042-trapping-rain-water) |
+| [0078-subsets](https://github.com/rishi-249/LeetCode_Practice/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rishi-249/LeetCode_Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0137-single-number-ii](https://github.com/rishi-249/LeetCode_Practice/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/rishi-249/LeetCode_Practice/tree/master/0260-single-number-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/rishi-249/LeetCode_Practice/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/rishi-249/LeetCode_Practice/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/rishi-249/LeetCode_Practice/tree/master/0260-single-number-iii) |
 ## Two Pointers
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rishi-249/LeetCode_Practice/tree/master/0042-trapping-rain-water) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/rishi-249/LeetCode_Practice/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
