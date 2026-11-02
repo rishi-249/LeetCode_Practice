@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rishi-249/LeetCode_Practice/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/rishi-249/LeetCode_Practice/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rishi-249/LeetCode_Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/rishi-249/LeetCode_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/rishi-249/LeetCode_Practice/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/rishi-249/LeetCode_Practice/tree/master/0260-single-number-iii) |
 ## Bit Manipulation
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/rishi-249/LeetCode_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0451-sort-characters-by-frequency](https://github.com/rishi-249/LeetCode_Practice/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/rishi-249/LeetCode_Practice/tree/master/0258-add-digits) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/rishi-249/LeetCode_Practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
